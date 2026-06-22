@@ -1,0 +1,6 @@
+{
+  "name": "BandShift",
+  "description": "BandShift Phase 1 Architecture Validation",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
